@@ -1,0 +1,11 @@
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\bin\Debug\netcoreapp2.2\Hungry.deps.json
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\bin\Debug\netcoreapp2.2\Hungry.runtimeconfig.json
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\bin\Debug\netcoreapp2.2\Hungry.runtimeconfig.dev.json
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\bin\Debug\netcoreapp2.2\Hungry.dll
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\bin\Debug\netcoreapp2.2\Hungry.pdb
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\obj\Debug\netcoreapp2.2\Hungry.csprojAssemblyReference.cache
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\obj\Debug\netcoreapp2.2\Hungry.csproj.CoreCompileInputs.cache
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\obj\Debug\netcoreapp2.2\Hungry.AssemblyInfoInputs.cache
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\obj\Debug\netcoreapp2.2\Hungry.AssemblyInfo.cs
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\obj\Debug\netcoreapp2.2\Hungry.dll
+C:\Users\tjs98\Desktop\CodingDojo\C#\Hungry\obj\Debug\netcoreapp2.2\Hungry.pdb
